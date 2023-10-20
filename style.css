@@ -1,0 +1,6 @@
+#patch {
+  width: 128px;
+  height: 64px;
+  border: 1px solid grey;
+  background-color: lab(50 20 30);
+}
